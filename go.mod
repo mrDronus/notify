@@ -1,4 +1,4 @@
-module github.com/nikoksr/notify
+module github.com/mrDronus/notify
 
 go 1.24.0
 

@@ -11,9 +11,9 @@
 
 &nbsp;
 
-[![CI](https://github.com/nikoksr/notify/actions/workflows/ci.yml/badge.svg)](https://github.com/nikoksr/notify/actions/workflows/ci.yml)
-[![Go Report Card](https://goreportcard.com/badge/github.com/nikoksr/notify)](https://goreportcard.com/report/github.com/nikoksr/notify)
-[![go.dev reference](https://img.shields.io/badge/go.dev-reference-007d9c?logo=go&logoColor=white&style=flat)](https://pkg.go.dev/github.com/nikoksr/notify)
+[![CI](https://github.com/mrDronus/notify/actions/workflows/ci.yml/badge.svg)](https://github.com/mrDronus/notify/actions/workflows/ci.yml)
+[![Go Report Card](https://goreportcard.com/badge/github.com/mrDronus/notify)](https://goreportcard.com/report/github.com/mrDronus/notify)
+[![go.dev reference](https://img.shields.io/badge/go.dev-reference-007d9c?logo=go&logoColor=white&style=flat)](https://pkg.go.dev/github.com/mrDronus/notify)
 
 </div>
 
@@ -34,7 +34,7 @@ Since Notify is highly dependent on the consistency of the supported external se
 ## Install <a id="install"></a>
 
 ```sh
-go get -u github.com/nikoksr/notify
+go get -u github.com/mrDronus/notify
 ```
 
 ## Example usage <a id="usage"></a>
@@ -69,13 +69,13 @@ constructor functions to create a new local `Notify` instance and pass it down t
 
 ## Contributing <a id="contributing"></a>
 
-Yes, please! Contributions of all kinds are very welcome! Feel free to check our [open issues](https://github.com/nikoksr/notify/issues). Please also take a look at the [contribution guidelines](https://github.com/nikoksr/notify/blob/main/CONTRIBUTING.md).
+Yes, please! Contributions of all kinds are very welcome! Feel free to check our [open issues](https://github.com/mrDronus/notify/issues). Please also take a look at the [contribution guidelines](https://github.com/mrDronus/notify/blob/main/CONTRIBUTING.md).
 
-> Psst, don't forget to check the list of [missing services](https://github.com/nikoksr/notify/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+label%3Aaffects%2Fservices+label%3A%22help+wanted%22+no%3Aassignee) waiting to be added by you or create [a new issue](https://github.com/nikoksr/notify/issues/new?assignees=&labels=affects%2Fservices%2C+good+first+issue%2C+hacktoberfest%2C+help+wanted%2C+type%2Fenhancement%2C+up+for+grabs&template=service-request.md&title=feat%28service%29%3A+Add+%5BSERVICE+NAME%5D+service) if you want a new service to be added.
+> Psst, don't forget to check the list of [missing services](https://github.com/mrDronus/notify/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+label%3Aaffects%2Fservices+label%3A%22help+wanted%22+no%3Aassignee) waiting to be added by you or create [a new issue](https://github.com/mrDronus/notify/issues/new?assignees=&labels=affects%2Fservices%2C+good+first+issue%2C+hacktoberfest%2C+help+wanted%2C+type%2Fenhancement%2C+up+for+grabs&template=service-request.md&title=feat%28service%29%3A+Add+%5BSERVICE+NAME%5D+service) if you want a new service to be added.
 
 ## Supported services <a id="supported_services"></a>
 
-> Click [here](https://github.com/nikoksr/notify/issues/new?assignees=&labels=affects%2Fservices%2C+good+first+issue%2C+hacktoberfest%2C+help+wanted%2C+type%2Fenhancement%2C+up+for+grabs&template=service-request.md&title=feat%28service%29%3A+Add+%5BSERVICE+NAME%5D+service) to request a missing service.
+> Click [here](https://github.com/mrDronus/notify/issues/new?assignees=&labels=affects%2Fservices%2C+good+first+issue%2C+hacktoberfest%2C+help+wanted%2C+type%2Fenhancement%2C+up+for+grabs&template=service-request.md&title=feat%28service%29%3A+Add+%5BSERVICE+NAME%5D+service) to request a missing service.
 
 | Service                                                                           | Path                                     | Credits                                                                                         |       Status       |
 |-----------------------------------------------------------------------------------|------------------------------------------|-------------------------------------------------------------------------------------------------|:------------------:|
@@ -126,12 +126,12 @@ The [logo](https://github.com/MariaLetta/free-gophers-pack) was made by the amaz
 
 If you find this library useful, you might also be interested in:
 
-- **[assert-go](https://github.com/nikoksr/assert-go)** - Tiny (~100 LoC) Go assertion library focused on crystal-clear failure messages
-- **[konfetty](https://github.com/nikoksr/konfetty)** - Zero-dependency, type-safe and powerful post-processing for your existing config solution in Go
-- **[typeid-zig](https://github.com/nikoksr/typeid-zig)** - Complete Zig implementation of the TypeID specification, recognized as an official community implementation
+- **[assert-go](https://github.com/mrDronus/assert-go)** - Tiny (~100 LoC) Go assertion library focused on crystal-clear failure messages
+- **[konfetty](https://github.com/mrDronus/konfetty)** - Zero-dependency, type-safe and powerful post-processing for your existing config solution in Go
+- **[typeid-zig](https://github.com/mrDronus/typeid-zig)** - Complete Zig implementation of the TypeID specification, recognized as an official community implementation
 
 ---
 
 <div align="center">
-<sub>Built with ❤️ by <a href="https://github.com/nikoksr">@nikoksr</a></sub>
+<sub>Built with ❤️ by <a href="https://github.com/mrDronus">@mrDronus</a></sub>
 </div>

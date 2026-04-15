@@ -1,6 +1,6 @@
 # Google Chat
 
-[![go.dev reference](https://img.shields.io/badge/go.dev-reference-007d9c?logo=go&logoColor=white&style=flat)](https://pkg.go.dev/github.com/nikoksr/notify/service/googlechat)
+[![go.dev reference](https://img.shields.io/badge/go.dev-reference-007d9c?logo=go&logoColor=white&style=flat)](https://pkg.go.dev/github.com/mrDronus/notify/service/googlechat)
 
 ## Prerequisites
 
@@ -39,8 +39,8 @@ import (
 	"log"
 	"strings"
 
-	"github.com/nikoksr/notify"
-	"github.com/nikoksr/notify/service/googlechat"
+	"github.com/mrDronus/notify"
+	"github.com/mrDronus/notify/service/googlechat"
 	"google.golang.org/api/chat/v1"
 	"google.golang.org/api/option"
 )

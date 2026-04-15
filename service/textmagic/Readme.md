@@ -15,8 +15,8 @@ import (
   "context"
   "log"
 
-  "github.com/nikoksr/notify"
-  "github.com/nikoksr/notify/service/textmagic"
+  "github.com/mrDronus/notify"
+  "github.com/mrDronus/notify/service/textmagic"
 )
 
 func main() {

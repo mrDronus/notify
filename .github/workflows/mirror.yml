@@ -16,6 +16,6 @@ jobs:
           fetch-depth: 0
       - uses: yesolutions/mirror-action@master
         with:
-          REMOTE: "https://codeberg.org/nikoksr/notify.git"
-          GIT_USERNAME: "nikoksr"
+          REMOTE: "https://codeberg.org/mrDronus/notify.git"
+          GIT_USERNAME: "mrDronus"
           GIT_PASSWORD: ${{ secrets.CODEBERG_TOKEN }}
