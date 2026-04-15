@@ -41,13 +41,13 @@ func New(apiToken string) (*Telegram, error) {
 	return t, nil
 }
 
-func NewWithClient(apiToken string, client *tgbotapi.BotAPI) (*Telegram, error) {
+func NewWithClient(client *tgbotapi.BotAPI) *Telegram {
 	t := &Telegram{
 		client:  client,
 		chatIDs: []int64{},
 	}
 
-	return t, nil
+	return t
 }
 
 // SetClient set a new custom BotAPI instance.
