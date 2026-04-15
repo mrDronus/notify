@@ -9,8 +9,8 @@ Usage:
 	    "context"
 	    "log"
 
-	    "github.com/nikoksr/notify"
-	    "github.com/nikoksr/notify/service/viber"
+	    "github.com/mrDronus/notify"
+	    "github.com/mrDronus/notify/service/viber"
 	)
 
 	const appKey = "your-viber-token"

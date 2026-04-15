@@ -7,7 +7,7 @@ package mattermost
 import (
 	"context"
 
-	"github.com/nikoksr/notify/service/http"
+	"github.com/mrDronus/notify/service/http"
 	mock "github.com/stretchr/testify/mock"
 )
 

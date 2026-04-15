@@ -14,8 +14,8 @@
 //	    "context"
 //	    "log"
 //
-//	    "github.com/nikoksr/notify"
-//	    "github.com/nikoksr/notify/service/pagerduty"
+//	    "github.com/mrDronus/notify"
+//	    "github.com/mrDronus/notify/service/pagerduty"
 //	)
 //
 //	func main() {

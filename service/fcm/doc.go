@@ -9,8 +9,8 @@ Usage:
 		"context"
 		"log"
 
-		"github.com/nikoksr/notify"
-		"github.com/nikoksr/notify/service/fcm"
+		"github.com/mrDronus/notify"
+		"github.com/mrDronus/notify/service/fcm"
 	)
 
 	func main() {
